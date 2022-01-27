@@ -79,8 +79,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/QwertyIsCodi
 
 * **QwertyIsCoding** - *Epic coder.* - [QwertyIsCoding](https://github.com/QwertyIsCoding/) - **
 
-## Acknowledgements
 
-* []()
-* []()
-* []()
