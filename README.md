@@ -11,4 +11,4 @@
           \|__|                                          \|___|/                                      
                                                                                    
                                                                                                       
-This is a discord bot made by @QwertyIsCoding. 
+This is a discord bot made by @QwertyIsCoding!
