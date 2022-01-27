@@ -12,3 +12,4 @@
          
                                                                                                       
                                                                                                       
+This is a discord bot made by @QwertyIsCoding. 
