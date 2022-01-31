@@ -29,7 +29,7 @@ TOKEN = 'X'
 bot = commands.Bot(command_prefix="#")
 
 
-
+#bot status in discord client and server ready message
 @bot.event
 async def on_ready():
     activity = discord.Game(name="#help", type=3)
@@ -111,7 +111,7 @@ async def info(ctx):
     await ctx.send(embed=embed)
     
 
-
+#bot invite
 @bot.command(pass_context=True)
 async def invite(ctx):
     """Invite this bot to your server!"""
@@ -126,6 +126,7 @@ async def invite(ctx):
     embed.set_thumbnail(url='')
     await ctx.send(embed=embed)
 
+#test the bot to see if it is online
 @bot.command(aliases=['test'])
 async def status(ctx):
     """Is the bot okay?"""
@@ -138,16 +139,20 @@ async def status(ctx):
     embed.set_footer(text='QWERTY')
     embed.set_thumbnail(url='')
     await ctx.send(embed=embed)
+
+#your discord server invite, in this case, it is my discord server invite
 @bot.command(pass_context=True)
 async def server(ctx):
     """The creator's main server!"""
     await ctx.channel.send('Here is the server invite for main server: https://discord.gg/JE2AfPm2Yu')
 
+#the discord bot support server, you can make your own support server if you are the one hosting it
 @bot.command(pass_context=True)
 async def support(ctx):
     """Support server!"""
     await ctx.channel.send('Here is the support server link: https://discord.gg/7RSxKSaN68')
 @bot.command(pass_context = True)
+
 #owner
 @commands.is_owner()
 async def owner(ctx):
