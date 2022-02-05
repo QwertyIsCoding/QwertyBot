@@ -1,4 +1,4 @@
-# QwertyBot
+# Docs
 <br/>
 <p align="center">
   <a href="https://github.com/QwertyIsCoding/QwertyBot">
