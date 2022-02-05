@@ -29,7 +29,7 @@ This Discord bot is a work in progress and new features will be added as time pa
 
 ## Built With
 
-Build with Discord.py and is self-hosted on a Raspberry Pi running Ubuntu headless(server side).
+Build with Discord.py and is self-hosted on a Raspberry Pi running Ubuntu headless(server side) .
 
 ## Getting Started
 
@@ -62,7 +62,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-Distributed under the GPL 3.0 License. See [LICENSE](https://github.com/QwertyIsCoding/QwertyBot/blob/main/LICENSE.md) for more information.
+Distributed under the GPL 3.0 License. See [LICENSE](https://github.com/QwertyIsCoding/QwertyBot/blob/main/LICENSE) for more information.
 
 ## Authors
 
