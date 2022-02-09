@@ -22,7 +22,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/QwertyIsCoding/QwertyBot/total) ![Contributors](https://img.shields.io/github/contributors/QwertyIsCoding/QwertyBot?color=dark-green) ![Forks](https://img.shields.io/github/forks/QwertyIsCoding/QwertyBot?style=social) ![Stargazers](https://img.shields.io/github/stars/QwertyIsCoding/QwertyBot?style=social) ![Issues](https://img.shields.io/github/issues/QwertyIsCoding/QwertyBot) ![License](https://img.shields.io/github/license/QwertyIsCoding/QwertyBot) 
+[Contributors](https://img.shields.io/github/contributors/QwertyIsCoding/QwertyBot?color=dark-green) ![Forks](https://img.shields.io/github/forks/QwertyIsCoding/QwertyBot?style=social) ![Stargazers](https://img.shields.io/github/stars/QwertyIsCoding/QwertyBot?style=social) ![Issues](https://img.shields.io/github/issues/QwertyIsCoding/QwertyBot) ![License](https://img.shields.io/github/license/QwertyIsCoding/QwertyBot) 
 
 ## About The Project
 This Discord bot is a work in progress and new features will be added as time passes by. This is the first release of my Discord bot and can be used. There may be some bugs so please feel free to inform me about it.
