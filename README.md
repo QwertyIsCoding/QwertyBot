@@ -11,7 +11,7 @@
     A Discord bot made by QwertyIsCoding
     <br/>
     <br/>
-    <a href="https://github.com/QwertyIsCoding/QwertyBot"><strong>Explore the docs »</strong></a>
+    <a href="https://qwertyiscoding.github.io/QwertyBot/"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
     <a href="qwertybot.netlify.app">View Demo</a>
