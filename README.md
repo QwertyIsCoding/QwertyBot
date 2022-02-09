@@ -14,7 +14,7 @@
     <a href="https://github.com/QwertyIsCoding/QwertyBot"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/QwertyIsCoding/QwertyBot">View Demo</a>
+    <a href="qwertybot.netlify.app">View Demo</a>
     .
     <a href="https://github.com/QwertyIsCoding/QwertyBot/issues">Report Bug</a>
     .
