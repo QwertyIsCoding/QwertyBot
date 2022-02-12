@@ -29,7 +29,7 @@ This Discord bot is a work in progress and new features will be added as time pa
 
 ## Built With
 
-Build with Discord.py and is self-hosted on a Raspberry Pi running Ubuntu headless(server side) .
+Build with Discord.py and is hosted with Heroku.
 
 ## Getting Started
 
