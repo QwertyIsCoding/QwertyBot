@@ -33,12 +33,16 @@ Build with Discord.py and is hosted with Heroku.
 
 ## Getting Started
 
-Clone the repo. Add your bot token. And run the code. It is that simple. 
+1. Download the project files and experiment or download the quickhost zip file and extract it. 
+2. Add the bot token in the qwerty.py file
+3. Host it in Heroku!
+
+NOTE - THE QUICK SETUP FILES ARE MEANT FOR HEROKU, IF YOU WANT TO SET IT UP ON A CUSTOM SERVER OR MACHINE LOCALLY, YOU CAN SIMPLY RUN THE PYTHON FILE.
 
 ### Prerequisites
 
 The command to run this in the terminal would be:
-python qwertybot.py
+python qwerty.py
 
 ## Usage
 
