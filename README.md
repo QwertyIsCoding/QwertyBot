@@ -72,6 +72,6 @@ Distributed under the GPL 3.0 License. See [LICENSE](https://github.com/QwertyIs
 
 ## Authors
 
-* **QwertyIsCoding** - *Epic Googler.* - [QwertyIsCoding](https://github.com/QwertyIsCoding/) 
+* **QwertyIsCoding** - *Epic Googler.* - [](https://github.com/QwertyIsCoding/) 
 
 
