@@ -41,7 +41,7 @@
 [x] Server info
 [x] Membercount
 [x] Set prefix(global)
-[x] Owner checker
+[x] Owner checker(global)
 [x] Timer
 ## About The Project
 This Discord bot is a work in progress and new features will be added as time passes by. This is the first release of my Discord bot and can be used. There may be some bugs so please feel free to inform me about it.
