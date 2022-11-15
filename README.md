@@ -25,15 +25,15 @@
 ![Contributors](https://img.shields.io/github/contributors/QwertyIsCoding/QwertyBot?color=dark-green) ![Forks](https://img.shields.io/github/forks/QwertyIsCoding/QwertyBot?style=social) ![Stargazers](https://img.shields.io/github/stars/QwertyIsCoding/QwertyBot?style=social) ![Issues](https://img.shields.io/github/issues/QwertyIsCoding/QwertyBot) ![License](https://img.shields.io/github/license/QwertyIsCoding/QwertyBot) 
 
 ## Todo
-[] Music in voice channels
-[] Giphy gif search
-[] Create role
-[] Change prefix for specific server
-[] Assign a user to me "Bot Operator"
-[] Games in Discord chats
-[] Fun facts
-[] Chatbot
-[] Ping
+[ ] Music in voice channels
+[ ] Giphy gif search
+[ ] Create role
+[ ] Change prefix for specific server
+[ ] Assign a user to me "Bot Operator"
+[ ] Games in Discord chats
+[ ] Fun facts
+[ ] Chatbot
+[ ] Ping
 [x] Calculator
 [x] Coinflip
 [x] Dice
