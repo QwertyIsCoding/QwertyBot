@@ -25,24 +25,25 @@
 ![Contributors](https://img.shields.io/github/contributors/QwertyIsCoding/QwertyBot?color=dark-green) ![Forks](https://img.shields.io/github/forks/QwertyIsCoding/QwertyBot?style=social) ![Stargazers](https://img.shields.io/github/stars/QwertyIsCoding/QwertyBot?style=social) ![Issues](https://img.shields.io/github/issues/QwertyIsCoding/QwertyBot) ![License](https://img.shields.io/github/license/QwertyIsCoding/QwertyBot) 
 
 ## Todo
-[ ] Music in voice channels
-[ ] Giphy gif search
-[ ] Create role
-[ ] Change prefix for specific server
-[ ] Assign a user to me "Bot Operator"
-[ ] Games in Discord chats
-[ ] Fun facts
-[ ] Chatbot
-[ ] Ping
-[x] Calculator
-[x] Coinflip
-[x] Dice
-[x] Repeat text
-[x] Server info
-[x] Membercount
-[x] Set prefix(global)
-[x] Owner checker(global)
-[x] Timer
+- [ ] Music in voice channels
+- [ ] Giphy gif search
+- [ ] Create role
+- [ ] Change prefix for specific server
+- [ ] Assign a user to me "Bot Operator"
+- [ ] Games in Discord chats
+- [ ] Fun facts
+- [ ] Chatbot
+- [ ] Ping
+- [x] Calculator
+- [x] Coinflip
+- [x] Dice
+- [x] Repeat text
+- [x] Server info
+- [x] Membercount
+- [x] Set prefix(global)
+- [x] Owner checker(global)
+- [x] Timer
+
 ## About The Project
 This Discord bot is a work in progress and new features will be added as time passes by. This is the first release of my Discord bot and can be used. There may be some bugs so please feel free to inform me about it.
 
