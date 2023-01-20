@@ -53,6 +53,7 @@ async def dice(ctx):
     await ctx.channel.send("{}".format(random.choice(variable)))
 
 #ping
+#still does not work
 @bot.command()
 async def ping(ctx):
     """Check the bot ping!"""
@@ -69,6 +70,7 @@ async def ping(ctx):
 
 
 #weclome message dm
+#does not work
 @client.event
 async def on_member_join(member, ctx):
     await ctx.author.send("```Hello there!```")
@@ -120,6 +122,7 @@ async def invite(ctx):
     await ctx.send(embed=embed)
 
 #test the bot to see if it is online
+#need to figure out how to get heroku error details in discord via the heroku api
 @bot.command(aliases=['test'])
 async def status(ctx):
     """Is the bot okay?"""
