@@ -24,7 +24,7 @@
 
 ![Contributors](https://img.shields.io/github/contributors/QwertyIsCoding/QwertyBot?color=dark-green) ![Forks](https://img.shields.io/github/forks/QwertyIsCoding/QwertyBot?style=social) ![Stargazers](https://img.shields.io/github/stars/QwertyIsCoding/QwertyBot?style=social) ![Issues](https://img.shields.io/github/issues/QwertyIsCoding/QwertyBot) ![License](https://img.shields.io/github/license/QwertyIsCoding/QwertyBot) 
 
-## Todo
+## Todo - This project is currently not under active development. If you want to contribute, feel free to do so for the following feature requests 
 - [ ] Music in voice channels
 - [ ] Giphy gif search
 - [ ] Create role
